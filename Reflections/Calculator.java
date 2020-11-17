@@ -1,0 +1,3 @@
+interface Calculator {
+    int factcalc ();
+}
